@@ -1,0 +1,21 @@
+.make {
+   display: flex;
+justify-content: space-evenly;
+align-items: center;
+width:  100%;
+flex-direction: row;
+height: auto;
+/* gap: 30px */
+}
+.logotipoImg {
+  width: 90px;
+  height: auto;
+}
+.container img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.card{
+    
+}
