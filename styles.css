@@ -5,6 +5,7 @@ align-items: center;
 width:  100%;
 flex-direction: row;
 height: auto;
+background-color: #FF0080;
 /* gap: 30px */
 }
 .logotipoImg {
@@ -58,4 +59,7 @@ height: auto;
     text-align: center;
     font-size: 20px;
     font-weight: bold;
+}
+.Contato{
+    ouver-size:none
 }
